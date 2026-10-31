@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800" role="img" aria-labelledby="title">
+  <title id="title">Sampul belum tersedia</title>
+  <rect width="600" height="800" fill="#f1f3f5"/>
+  <path d="M170 220h260v360H170z" fill="#dee2e6" stroke="#adb5bd" stroke-width="12"/>
+  <path d="M300 220v360" stroke="#adb5bd" stroke-width="12"/>
+  <path d="M210 310h65M325 310h65M210 360h65M325 360h65" stroke="#adb5bd" stroke-width="12" stroke-linecap="round"/>
+  <text x="300" y="650" fill="#6c757d" font-family="Arial,sans-serif" font-size="32" text-anchor="middle">Foto belum tersedia</text>
+</svg>
